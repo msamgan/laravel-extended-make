@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Msamgan\LaravelExtendedMake\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelExtendedMakeCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-extended-make';
 
     public $description = 'My command';
 
