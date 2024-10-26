@@ -2,9 +2,9 @@
 
 namespace Msamgan\LaravelExtendedMake;
 
+use Msamgan\LaravelExtendedMake\Commands\LaravelExtendedMakeCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Msamgan\LaravelExtendedMake\Commands\LaravelExtendedMakeCommand;
 
 class LaravelExtendedMakeServiceProvider extends PackageServiceProvider
 {

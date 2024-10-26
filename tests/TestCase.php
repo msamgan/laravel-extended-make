@@ -3,8 +3,8 @@
 namespace Msamgan\LaravelExtendedMake\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Msamgan\LaravelExtendedMake\LaravelExtendedMakeServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
